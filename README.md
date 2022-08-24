@@ -25,9 +25,9 @@ pyuic5 mainwindow.ui -o mainwindow.py
 ```
 
 ## Install and run
-1. Download epos linux library from [this link](https://www.maxongroup.net.au/maxon/view/product/control/Positionierung/280937?download=show). Extract the zip file and install it. Follow the instructions of installing this library from [here](https://www.maxongroup.com/medias/sys_master/8823917281310.pdf)
+1. Download epos linux library from [this link](https://www.maxongroup.net.au/maxon/view/product/control/Positionierung/280937?download=show). Extract the zip file and install it. Follow the instructions of installing this library from [here](https://www.maxongroup.com/medias/sys_master/8823917281310.pdf).
 
-2. Download and install python v3.x on your system. Install python from [here](https://www.python.org/downloads/)
+2. Download and install python v3.x on your system. Install python from [here](https://www.python.org/downloads/).
 
 3. Install pyqt5 on your system. for linux based os run this command:
 
