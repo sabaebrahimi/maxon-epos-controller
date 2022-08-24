@@ -10,6 +10,20 @@ This project is a linux based desktop app for some methods of epos motor driver.
 
 Project UI is developed by PyQt5.
 
+## Project structure
+
+    .
+    ├── main.py                   # Code logic  
+    ├── mainwindow.py             # Generated ui file based on `mainwindow.ui`
+    ├── mainwindow.ui             # UI file
+    ├── LICENSE
+    └── README.md
+    
+`mainwindow.ui` is added in case you want to change the UI or add more features. After editing the ui, regenerate mainwindow.py with this command:
+```
+pyuic5 mainwindow.ui -o mainwindow.py
+```
+
 ## Install and run
 1. Download epos linux library from [this link](https://www.maxongroup.net.au/maxon/view/product/control/Positionierung/280937?download=show). Extract the zip file and install it. Follow the instructions of installing this library from [here](https://www.maxongroup.com/medias/sys_master/8823917281310.pdf)
 
