@@ -14,7 +14,7 @@ Project UI is developed by PyQt5.
 
     .
     ├── main.py                   # Code logic  
-    ├── mainwindow.py             # Generated ui file based on `mainwindow.ui`
+    ├── mainwindow.py             # Generated ui file based on mainwindow.ui
     ├── mainwindow.ui             # UI file
     ├── LICENSE
     └── README.md
@@ -42,4 +42,3 @@ path1 = '/home/pi/EPOS_Linux_Library/lib/arm/v7/libEposCmd.so.6.7.1.0'
 For example I run this app on rasbperrypi3 model B.
 
 5. Run and Enjoy!
-
