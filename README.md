@@ -42,3 +42,7 @@ path1 = '/home/pi/EPOS_Linux_Library/lib/arm/v7/libEposCmd.so.6.7.1.0'
 For example I run this app on rasbperrypi3 model B.
 
 5. Run and Enjoy!
+
+---
+
+Co-authored by: Ali Hashemi <mr.alihashemi@outlook.com>
